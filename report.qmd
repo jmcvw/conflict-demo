@@ -5,3 +5,7 @@ __Added .gitignore__
 __(We'll see what happened to 2 later)__
 We edited an existing line instead of a adding a new line
 
+## Commit 4
+__Updated this file to include this text__
+This file exists on the `main` line of development
+
