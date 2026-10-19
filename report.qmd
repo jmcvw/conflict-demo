@@ -1,0 +1,6 @@
+## Commit 1
+__Added .gitignore__
+
+## Commit 2
+__Added this file__
+
