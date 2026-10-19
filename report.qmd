@@ -1,6 +1,7 @@
 ## Commit 1
 __Added .gitignore__
 
-## Commit 2
-__Added this file__
+## Commit 3 _?!_
+__(We'll see what happened to 2 later)__
+We edited an existing line instead of a adding a new line
 
