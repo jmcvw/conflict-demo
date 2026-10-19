@@ -6,3 +6,7 @@ It was created on the `analysis` line
 __(commit 2 on `analysis` line)__
 It does not (yet) exist on the `main` line
 
+## Commit 8
+__(commit 3 on analysis line)__
+We can switch between branches whenever we like, and see the working directory update live
+
