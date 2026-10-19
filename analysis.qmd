@@ -1,0 +1,12 @@
+## Commit 6
+__(commit 1 on `analysis` line)__
+It was created on the `analysis` line
+
+## Commit 7
+__(commit 2 on `analysis` line)__
+It does not (yet) exist on the `main` line
+
+## Commit 8
+__(commit 3 on analysis line)__
+We can switch between branches whenever we like, and see the working directory update live
+
